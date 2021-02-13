@@ -21,4 +21,3 @@ for i in dizi :
         x=i
 
 print('En büyük tek sayı : ', x)
-© 2021 GitHub, Inc.
